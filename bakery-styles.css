@@ -91,7 +91,7 @@ p.more {
 
 /* aside "hours" styles */
 aside {
-  background: url(images/scallop.png) repeat-y left top;
+  background: url(scallop.png) repeat-y left top;
   background-color: #F6F3ED;
   padding: 1em;
   padding-left: 45px;
